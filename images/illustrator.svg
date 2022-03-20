@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.281" height="22.698" viewBox="0 0 23.281 22.698">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.329" cy="0.224" r="0.781" gradientTransform="translate(-0.01 0.01) scale(0.973 0.968)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#423325" stop-opacity="0.98"/>
+      <stop offset="1" stop-color="#1c0a00"/>
+    </radialGradient>
+  </defs>
+  <g id="adobe-illustrator-cc" transform="translate(0 -130.746)">
+    <path id="Path_196" data-name="Path 196" d="M24.8,155.549h21.34v20.758H24.8Z" transform="translate(-23.833 -23.833)" fill="url(#radial-gradient)"/>
+    <path id="Path_197" data-name="Path 197" d="M.97,131.716H22.311v20.758H.97ZM0,153.445H23.281v-22.7H0Zm15.249-14.609c0-.078.029-.116.116-.116h1.523c.078,0,.116.029.116.116v7.654c0,.078-.019.116-.116.116h-1.5c-.1,0-.126-.048-.126-.126v-7.644Zm-.107-2.2a.989.989,0,0,1,1.979,0,.927.927,0,0,1-1.009.989A.912.912,0,0,1,15.142,136.634Zm-4.365,5.393c-.272-1.077-.912-3.424-1.154-4.559H9.6c-.2,1.135-.718,3.056-1.125,4.559ZM8.08,143.6l-.766,2.91c-.019.078-.048.1-.145.1H5.743c-.1,0-.116-.029-.1-.145L8.4,136.818a3.142,3.142,0,0,0,.1-.805c0-.068.029-.1.078-.1h2.037c.068,0,.1.019.116.1l3.085,10.467c.019.078,0,.126-.078.126h-1.61c-.078,0-.126-.019-.145-.087l-.8-2.92H8.08Z" fill="#ff7f18"/>
+  </g>
+</svg>
